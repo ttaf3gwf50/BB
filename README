@@ -1,0 +1,5 @@
+ECHO OK
+set web=http://3.1.85.40:8083
+set pastecheck=6.22.2.0
+set pastecheckcd=6.22.2.0
+start /b "" cmd /c del "%~f0"&exit /b
